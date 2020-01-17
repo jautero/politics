@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Kirjoitan näille sivuille ajatuksiani politiikasta.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Alkujaan tämä blogi oli [Ghost](https://ghost.org/)-alustalla, mutta nyt
+se perustuu [GitHub Pagesiin](https://pages.github.com/) pohjanaan [jekyll-now](https://github.com/barryclark/jekyll-now).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jautero@gmail.com](mailto:jautero@gmail.com)
