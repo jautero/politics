@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Trollitehdas on käynnistynyt!
-slug: trollitehdas-on-kaynnistynyt
-date_published: 2019-06-05T02:00:00.000Z
-date_updated: 2019-06-05T02:00:00.000Z
 ---
 
 Twitterkeskustelun seurauksena päädyin muutama vuosi sitten tarkistamaan onko trollitehdas.fi -domain varattu. Ei ollut, joten rekisteröin sen ja ajattelin keskittää yhteiskunnallisen aktiivisuuteni sinne. En kuitenkaan saanut edes blogia aikaiseksi. Aikanaan sitten domain vanheni enkä viitsinyt sitä uusia, joten nyt blogini on [eipystyilman.beer](https://eipystyilman.beer/)-domainin alla.

@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Jälkiteollinen yhteiskunta
-slug: jalkiteollinen-yhteiskunta
-date_published: 2019-08-26T10:43:43.000Z
-date_updated: 2019-08-26T10:59:36.000Z
 excerpt: Päätin kirjoittaa laajemmin tweetistäni ja lopputuloksena oli pohdintaa jälkiteollisesta yhteiskunnasta.
 ---
 

@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Työn tulevaisuus
-slug: tyon-tulevaisuus
-date_published: 2019-02-06T08:00:00.000Z
-date_updated: 2019-02-06T08:00:00.000Z
 ---
 
 Kirjoitin [*Informaatioyhteiskunnassa*](/informaatioyhteiskunta/)kuinka tulevaisuudessa on vain *paskaduunia*, *hevonpaskaduunia* ja *intohimoduunia.*

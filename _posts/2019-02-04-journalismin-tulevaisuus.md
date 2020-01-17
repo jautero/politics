@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Miten tämä blogi sai alkunsa eli voiko journalismin pelastaa?
-slug: journalismin-tulevaisuus
-date_published: 2019-02-04T05:13:00.000Z
-date_updated: 2019-02-04T05:13:00.000Z
 excerpt: Buzzfeedin viimeisimmät irtisanomiset synnyttivät Twitterissä keskustelua siitä voiko kirjoittamisella enää elää ja mikä on journalismin kohtalo. 
 ---
 

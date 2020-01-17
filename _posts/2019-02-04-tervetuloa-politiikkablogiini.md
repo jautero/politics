@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Tervetuloa politiikkablogiini
-slug: tervetuloa-politiikkablogiini
-date_published: 2019-02-04T02:34:10.000Z
-date_updated: 2019-02-04T02:34:10.000Z
 tags: ylläpito
 excerpt: Olen aloittanut uuden blogin osoitteessa https://politics.eipystyilman.beer/. 
 ---

@@ -1,8 +1,6 @@
 ---
+layout: post
 title: Informaatioyhteiskunta
-slug: informaatioyhteiskunta
-date_published: 2019-02-05T08:01:07.000Z
-date_updated: 2019-04-26T23:53:55.000Z
 ---
 
 > Tämä kirjoitus päivittyy sitä mukaa, kun pohdintani aiheesta etenee.
