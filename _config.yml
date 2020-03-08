@@ -67,8 +67,13 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+    
+emptyArray: []
 
-# Set the Sass partials directory, as we're using @imports
+comments:
+  receiver: https://politics-comments.appspot.com/comment
+
+    # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
