@@ -78,6 +78,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 remote_theme: mmistakes/minimal-mistakes
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
@@ -91,4 +92,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minimal
