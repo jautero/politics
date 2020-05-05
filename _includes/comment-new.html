@@ -1,10 +1,10 @@
 <h3>Respond to this</h3>
-<form action="/fake" method="post" id="commentform" class="form-horizontal">
+<form action="/fake" class="form-js" method="post" id="commentform" class="form-horizontal">
   <fieldset id="commentfields">
     <input name="redirect" type="hidden" value="{{ site.url }}/thanks">
     <input name="post_id" type="hidden" value="{{ slug }}">
     <input name="comment-site" type="hidden" value="{{ site.url }}">
-    <textarea name="message" id="message" placeholder="Continue the discussion."></textarea>
+    <textarea name="message" id="message" rows="6" placeholder="Continue the discussion."></textarea>
 
     <label for="name">Name/alias <span>(Required, displayed)</span></label>
     <input type="text" name="name" id="name" placeholder="Name" />
