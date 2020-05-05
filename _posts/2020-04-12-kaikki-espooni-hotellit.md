@@ -7,7 +7,7 @@ excerpt: Espoon hotellihankkeita ja miksi suunnittelen poismuuttoa
 ---
 Eilinen kävelylenkkini suuntautui Suurpeltoon ja pohdin taas kerran, pitäisikö [Icon Plaza](https://web.archive.org/save/https://www.iconplaza.fi/) nimetä "Icon Marinaksi" tai "Icon Waterfrontiksi"? Paikka kun on jo pitkään näyttänyt tältä:
 
-![Kuva Icon Plazan vettä lainehtivasta tontista](images/iconplaza.jpg)
+![Kuva Icon Plazan vettä lainehtivasta tontista](/images/iconplaza.jpg)
 
 [Tässä Hesarin jutussa](https://www.hs.fi/kaupunki/espoo/art-2000006402856.html) kerrotaan mitä projktille tapahtui. (Spoileri: rakennuttaja ajautui konkurssiin.) Jutussa kerrotaan:"Alun perin suunnitelmissa oli myös, että kortteliin nousisi hotelli." Espoon hotellihankkeet ovat jo hiukan surullisenkuuluisia.
 
