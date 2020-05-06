@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Miten tämä blogi sai alkunsa eli voiko journalismin pelastaa?
 excerpt: Buzzfeedin viimeisimmät irtisanomiset synnyttivät Twitterissä keskustelua siitä voiko kirjoittamisella enää elää ja mikä on journalismin kohtalo. 
 ---

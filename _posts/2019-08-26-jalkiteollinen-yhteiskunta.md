@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Jälkiteollinen yhteiskunta
 excerpt: Päätin kirjoittaa laajemmin tweetistäni ja lopputuloksena oli pohdintaa jälkiteollisesta yhteiskunnasta.
 ---

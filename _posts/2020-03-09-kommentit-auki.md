@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 commenting: open
 title: Kommentit auki
 tags:

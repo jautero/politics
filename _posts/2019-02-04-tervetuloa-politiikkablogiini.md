@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Tervetuloa politiikkablogiini
 tags: ylläpito
 excerpt: Olen aloittanut uuden blogin osoitteessa https://politics.eipystyilman.beer/. 
