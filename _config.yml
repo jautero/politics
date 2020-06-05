@@ -46,6 +46,7 @@ comments:
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+  receiver               : "https://politics-comments.appspot.com/comment"
 reCaptcha:
   siteKey                :
   secret                 :
