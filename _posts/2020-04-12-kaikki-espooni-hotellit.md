@@ -1,6 +1,6 @@
 ---
 layout: single
-commenting: open
+comments: true
 title: Kaikki Espooni hotellit
 tags: espoo kunnallispolitiikka gryndaus länsimetro
 excerpt: Espoon hotellihankkeita ja miksi suunnittelen poismuuttoa
