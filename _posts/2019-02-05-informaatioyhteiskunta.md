@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Informaatioyhteiskunta
+comments: true
 ---
 
 > Tämä kirjoitus päivittyy sitä mukaa, kun pohdintani aiheesta etenee.
