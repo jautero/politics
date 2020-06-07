@@ -1,0 +1,2 @@
+comments:
+    receiver               : "http://localhost:8080/comment"

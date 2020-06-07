@@ -10,3 +10,4 @@ Blogikirjoituksia on nyt mahdollista kommentoida.
 ## Päivitys
 
 Kommentit hävisivät teeman päivityksessä. Niiden pitäisi nyt olla takaisin.
+Ja nyt pitäisi kommentoinninkin toimia.
