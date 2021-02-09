@@ -3,7 +3,7 @@ layout: single
 commenting: open
 title: Kunnallisvaalit 2021
 tags: kunnallispolitiikka
-excerpt: Pitäisikö kunnalisvaaleja lykätä?
+excerpt: Kunnallisvaaleja ei pidä lykätä heppoisin perustein.
 ---
 Länsiväylässä oli viikonloppuna [mielipidekirjoitus](https://www.lansivayla.fi/paakirjoitus-mielipide/3593124), jossa ehdotettiin kunnallisvaalien lykkäämistä korona-epidemian takia.
 
