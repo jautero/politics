@@ -1,6 +1,6 @@
 ---
 layout: single
-commenting: open
+comments: true
 title: Kunnallisvaalit 2021
 tags: kunnallispolitiikka
 excerpt: Kunnallisvaaleja ei pidä lykätä heppoisin perustein.
