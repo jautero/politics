@@ -1,0 +1,4 @@
+siteurl: https://politics.eipystyilman.beer
+token: <INSERT GITHUB TOKEN>
+repo: jautero/politics
+mainbranch: gh-pages
