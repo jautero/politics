@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: blog
 title: About
 permalink: /about/
 ---
